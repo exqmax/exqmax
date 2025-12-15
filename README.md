@@ -1,8 +1,11 @@
-- 👋 Hi, I’m Leonardo Ezequiel PALACIOS RUSCONI
-- 👀 I’m interested in web programming
-- 🌱 I’m currently learning node.js react.js .Net WEB
+👋 Hi, I’m Leonardo Ezequiel Palacios Rusconi
 
-- 📫 How to reach me palaciosrusconi@gmail.com
+🎓 I’m a Higher Technician in Systems Analysis and currently a Systems Engineering student.
+💻 I’m passionate about programming and continuously improving my skills in software and web development.
+🚀 I enjoy learning new technologies and building practical solutions.
+
+📫 You can find me on LinkedIn:
+👉 https://www.linkedin.com/in/prle
 
 <!---
 exqmax/exqmax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
